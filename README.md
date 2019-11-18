@@ -23,6 +23,9 @@ Computational law is a branch of legal informatics concerned with the mechanizat
 
 [Computational Contract Collaboration and Construction, Wong Meng Weng et al.](https://drive.google.com/file/d/0B-lTLNYJdzgKSkdQaTNmUG1zSlk/view)
 
+[“Quantitative Legal Prediction—or—How I Learned to Stop Worrying and Start Preparing for the Data-Driven Future of the Legal Services Industry.](http://law.emory.edu/elj/_documents/volumes/62/4/contents/katz.pdf)
+> Examines the rise of 'data-driven law practice', in particular predictions about litigation outcomes (and their limitations). 
+
 ##### People working on computable contracts
 
 [The Accord Project](https://www.accordproject.org/) | [Legalese](https://legalese.com/)
@@ -37,10 +40,21 @@ How are data, technology, and its applications regulated?
 ## Access to Justice
 [AI Goes to Court: The Growing Landscape of AI for Access to Justice](https://medium.com/legal-design-and-innovation/ai-goes-to-court-the-growing-landscape-of-ai-for-access-to-justice-3f58aca4306f)
 
+[“Ensuring Access to Information: International Law’s Contribution to Global Justice.”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3106885) 
+> Argues that new information and communication technology has warped accountability for global injustice, by concentrating data in a minority. Political minorities however can be empowered by thinking about technolgoy. 
+
+["“What Is Data Justice? The Case for Connecting Digital Rights and Freedoms Globally.”](https://journals.sagepub.com/doi/full/10.1177/2053951717736335)
+> Calls for 'data justice' in legal and social justice. 
+
 ## Conceptual Stuff
 [The Non-Technical AI Guide](https://towardsdatascience.com/the-non-technical-guide-to-artificial-intelligence-e9e5da1a15c5)
 
 [A Gentle introduction to Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8) 
+
+[Oxford Handbook of Law, Regulation and Technology](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199680832.001.0001/oxfordhb-9780199680832)
+
+[“Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon.”](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878)
+> A seminal article from 2012 thinking about Big Data through 'utopian', 'dystopian' accounts. More epistemological than legal, useful nonetheless. 
 
 ## Websites / Sources 
 [Stanford Legal Design & Innovation on Medium](https://medium.com/legal-design-and-innovation) 
